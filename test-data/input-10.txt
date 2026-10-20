@@ -1,0 +1,3 @@
+# ALL: a primer sikeres, a szekunder hibázik; legalább egy siker miatt az eredmény SUCCESS.
+GT4500,1,0,1,1
+TORPEDO,ALL
