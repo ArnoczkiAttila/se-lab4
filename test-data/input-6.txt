@@ -1,0 +1,3 @@
+# A primer üres, ezért az első SINGLE próbálja elsütni a nem üres szekunder tárolót.
+GT4500,0,0,1,0
+TORPEDO,SINGLE

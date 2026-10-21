@@ -1,0 +1,5 @@
+# Mindkét tároló üres: SINGLE-ben a másik tároló ellenőrzése is hamis,
+# ALL-ban pedig mindkét ürességi ág és a sikertelen eredmény fut le.
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL

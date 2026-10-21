@@ -1,0 +1,5 @@
+# Az első lövés elfogyasztja a primert; a másodiknál a szekunder is üres,
+# így a primerre történő visszaesési ág belép, de a primer már üres.
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
